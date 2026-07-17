@@ -1,24 +1,23 @@
-# hey, i'm adam 👋
+# Hey, i'm adam 👋
 
-ml engineer in paris. fresh out of télécom sudparis (institut polytechnique de paris).
-freelancer in my spare time, mostly applied AI.
+Data Scientist, Ml engineer & AI Engineer in Paris. Fresh out of télécom sudparis (institut polytechnique de paris).
+Freelancer in my spare time, mostly applied AI.
 
-no stats widgets, no badge wall. the proof is below, and it's all public.
+## Currently obsessed with
 
-## currently obsessed
+Building **[jarv](https://github.com/aramz33/Jarv)** - a local jarvis running entirely
+on my mac m3. voice, memory, tools. 
+Iron man lied to me and i took it personally.
 
-building **[jarv](https://github.com/aramz33/Jarv)** — a local jarvis running entirely
-on my mac m3. voice, memory, tools. iron man lied to me and i took it personally.
-
-the real obsession is the house around the model: harnesses, observability, small tools
-wired into one ecosystem. i push a setup until it breaks, figure out why, rebuild it
-better. i learn more from the plumbing than from the prompts.
+The real obsession is the house around the model: harnesses, observability, small tools
+wired into one ecosystem optimized for mid level hardware (mac M3, 16GB of RAM). 
+I push a setup until it breaks, figure out why, rebuild it better. i learn more from the plumbing than from the prompts.
 
 <!-- LATEST:START -->
 latest brick: [aramz33/pi-prometheus](https://github.com/aramz33/pi-prometheus) — "docs: document npm install as the primary path" (today)
 <!-- LATEST:END -->
 
-## what i build
+## What i build
 
 | project | what it is |
 |---|---|
@@ -27,21 +26,20 @@ latest brick: [aramz33/pi-prometheus](https://github.com/aramz33/pi-prometheus) 
 | [TheNewsWave](https://github.com/aramz33/TheNewsWave) | your own news curator — knows your profile and preferences |
 | [depth-anything-v2-webapp](https://github.com/aramz33/depth-anything-v2-webapp) | monocular depth estimation, in the browser |
 
-## open source, honestly
+## OSS Contributions
 
-i started contributing this year. short list, growing:
+I started contributing this year. List is growing:
 
 <!-- OSS:START -->
 - [AlexsJones/llmfit#758](https://github.com/AlexsJones/llmfit/pull/758) — open · feat(api): expose usable_context and effective_context_length in the models envelope
 - [AlexsJones/llmfit#754](https://github.com/AlexsJones/llmfit/pull/754) — merged · feat(core): report macOS GPU-available unified memory
 <!-- OSS:END -->
 
-*(this section updates itself daily via a [40-line script](scripts/update_readme.py)
-and a cron. i automated the bragging.)*
+*(this section updates itself daily via a [40-line script](scripts/update_readme.py) and a cron. i automated the bragging.)*
 
-## off keyboard
+## Offline
 
-music, backpacking with deliberately few plans, and optimizing my own dev setup well
+Music, backpacking with deliberately few plans, and optimizing my own dev setup well
 past the point of reasonable returns.
 
 ---
