@@ -1,4 +1,4 @@
-# Hey, i'm adam 👋
+# Hey, i'm Adam 👋
 
 Data Scientist, Ml engineer & AI Engineer in Paris. Fresh out of télécom sudparis (institut polytechnique de paris).
 Freelancer in my spare time, mostly applied AI.
@@ -14,16 +14,16 @@ wired into one ecosystem optimized for mid level hardware (mac M3, 16GB of RAM).
 I push a setup until it breaks, figure out why, rebuild it better. i learn more from the plumbing than from the prompts.
 
 <!-- LATEST:START -->
-latest brick: [aramz33/pi-prometheus](https://github.com/aramz33/pi-prometheus) — "docs: document npm install as the primary path" (today)
+latest brick: [aramz33/pi-prometheus](https://github.com/aramz33/pi-prometheus) ; "docs: document npm install as the primary path" (today)
 <!-- LATEST:END -->
 
 ## What i build
 
 | project | what it is |
 |---|---|
-| [jarv](https://github.com/aramz33/Jarv) | a local jarvis for mac m3 — voice, memory, tools, one ecosystem |
+| [jarv](https://github.com/aramz33/Jarv) | a local jarvis for mac m3 - voice, memory, tools, one ecosystem |
 | [pi-prometheus](https://www.npmjs.com/package/pi-prometheus) ![npm](https://img.shields.io/npm/v/pi-prometheus?color=5eead4) | prometheus exporter for the [pi](https://pi.dev) coding agent. shipped to npm, i run it daily |
-| [TheNewsWave](https://github.com/aramz33/TheNewsWave) | your own news curator — knows your profile and preferences |
+| [TheNewsWave](https://github.com/aramz33/TheNewsWave) | your own news curator - knows your profile and preferences |
 | [depth-anything-v2-webapp](https://github.com/aramz33/depth-anything-v2-webapp) | monocular depth estimation, in the browser |
 
 ## OSS Contributions
@@ -31,8 +31,8 @@ latest brick: [aramz33/pi-prometheus](https://github.com/aramz33/pi-prometheus) 
 I started contributing this year. List is growing:
 
 <!-- OSS:START -->
-- [AlexsJones/llmfit#758](https://github.com/AlexsJones/llmfit/pull/758) — open · feat(api): expose usable_context and effective_context_length in the models envelope
-- [AlexsJones/llmfit#754](https://github.com/AlexsJones/llmfit/pull/754) — merged · feat(core): report macOS GPU-available unified memory
+- [AlexsJones/llmfit#758](https://github.com/AlexsJones/llmfit/pull/758) - open · feat(api): expose usable_context and effective_context_length in the models envelope
+- [AlexsJones/llmfit#754](https://github.com/AlexsJones/llmfit/pull/754) - merged · feat(core): report macOS GPU-available unified memory
 <!-- OSS:END -->
 
 *(this section updates itself daily via a [40-line script](scripts/update_readme.py) and a cron. i automated the bragging.)*
