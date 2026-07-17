@@ -33,6 +33,8 @@ def latest_brick():
         # public events payload has no commit list anymore, only the head sha
         if event["type"] == "PushEvent" and event["payload"].get("head"):
             repo = event["repo"]["name"]
+            if repo == f"{USER}/{USER}":  # skip self-referential profile-repo pushes
+                continue
             msg = api(f"/repos/{repo}/commits/{event['payload']['head']}")["commit"]["message"].splitlines()[0]
             return (
                 f'latest brick: [{repo}](https://github.com/{repo}) — '
