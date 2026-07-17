@@ -5,8 +5,7 @@ Freelancer in my spare time, mostly applied AI.
 
 ## Currently obsessed with
 
-Building **[jarv](https://github.com/aramz33/Jarv)** - a local jarvis running entirely
-on my mac m3. voice, memory, tools. 
+Building **[jarv](https://github.com/aramz33/Jarv)** - a local jarvis running entirely on my mac m3. voice, memory, tools. 
 Iron man lied to me and i took it personally.
 
 The real obsession is the house around the model: harnesses, observability, small tools
@@ -14,7 +13,7 @@ wired into one ecosystem optimized for mid level hardware (mac M3, 16GB of RAM).
 I push a setup until it breaks, figure out why, rebuild it better. i learn more from the plumbing than from the prompts.
 
 <!-- LATEST:START -->
-latest brick: [aramz33/Jarv](https://github.com/aramz33/Jarv) — "docs: rewrite README as real documentation — architecture, GBNF loop, ADRs, methodology" (today)
+latest brick: [aramz33/Jarv](https://github.com/aramz33/Jarv) - "docs: rewrite README as real documentation — architecture, GBNF loop, ADRs, methodology" (today)
 <!-- LATEST:END -->
 
 ## What i build
