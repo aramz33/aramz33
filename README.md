@@ -13,7 +13,7 @@ wired into one ecosystem optimized for mid level hardware (mac M3, 16GB of RAM).
 I push a setup until it breaks, figure out why, rebuild it better. i learn more from the plumbing than from the prompts.
 
 <!-- LATEST:START -->
-latest brick: [aramz33/Jarv](https://github.com/aramz33/Jarv) — "docs: rewrite README as real documentation — architecture, GBNF loop, ADRs, methodology" (today)
+latest brick: [aramz33/Jarv](https://github.com/aramz33/Jarv) — "docs: rewrite README as real documentation — architecture, GBNF loop, ADRs, methodology" (1d ago)
 <!-- LATEST:END -->
 
 ## What i build
@@ -30,7 +30,8 @@ latest brick: [aramz33/Jarv](https://github.com/aramz33/Jarv) — "docs: rewrite
 I started contributing this year. List is growing:
 
 <!-- OSS:START -->
-- [AlexsJones/llmfit#758](https://github.com/AlexsJones/llmfit/pull/758) — open · feat(api): expose usable_context and effective_context_length in the models envelope
+- [AlexsJones/llmfit#761](https://github.com/AlexsJones/llmfit/pull/761) — open · feat(api): unify fit envelope serializers, exposing parity fields on REST/MCP
+- [AlexsJones/llmfit#758](https://github.com/AlexsJones/llmfit/pull/758) — merged · feat(api): expose usable_context and effective_context_length in the models envelope
 - [AlexsJones/llmfit#754](https://github.com/AlexsJones/llmfit/pull/754) — merged · feat(core): report macOS GPU-available unified memory
 <!-- OSS:END -->
 
