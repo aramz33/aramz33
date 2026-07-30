@@ -1,16 +1,21 @@
 # Hey, i'm Adam 👋
 
+> **KISS MY SHINY METAL ASS**
+
 Data Scientist, Ml engineer & AI Engineer in Paris. Fresh out of télécom sudparis (institut polytechnique de paris).
-Freelancer in my spare time, mostly applied AI.
+Freelancer in my spare time, mostly applied AI. bending unit by night.
 
 ## Currently obsessed with
 
 Building **[jarv](https://github.com/aramz33/Jarv)** - a local jarvis running entirely on my mac m3. voice, memory, tools. 
 Iron man lied to me and i took it personally.
 
+it does not want to kill all humans. i checked. twice.
+
 The real obsession is the house around the model: harnesses, observability, small tools
 wired into one ecosystem optimized for mid level hardware (mac M3, 16GB of RAM). 
 I push a setup until it breaks, figure out why, rebuild it better. i learn more from the plumbing than from the prompts.
+when a run OOMs at 3am on 16GB: we're boned. then i fix it.
 
 <!-- LATEST:START -->
 latest brick: [aramz33/agentbase](https://github.com/aramz33/agentbase) — "test(prune): the skip set had one state tested out of four" (today)
@@ -25,9 +30,11 @@ latest brick: [aramz33/agentbase](https://github.com/aramz33/agentbase) — "tes
 | [TheNewsWave](https://github.com/aramz33/TheNewsWave) | your own news curator - knows your profile and preferences |
 | [depth-anything-v2-webapp](https://github.com/aramz33/depth-anything-v2-webapp) | monocular depth estimation, in the browser |
 
+i'm 40% python, 40% yaml, and 20% regret.
+
 ## OSS Contributions
 
-I started contributing this year. List is growing:
+I started contributing this year. List is growing. i'm going to build my own ecosystem, with blackjack. in fact, forget the ecosystem:
 
 <!-- OSS:START -->
 - [AlexsJones/llmfit#761](https://github.com/AlexsJones/llmfit/pull/761) — merged · feat(api): unify fit envelope serializers, exposing parity fields on REST/MCP
@@ -40,7 +47,7 @@ I started contributing this year. List is growing:
 ## Offline
 
 Music, backpacking with deliberately few plans, and optimizing my own dev setup well
-past the point of reasonable returns.
+past the point of reasonable returns. no slurm, but the coffee count is comparable.
 
 ---
 
@@ -49,3 +56,5 @@ past the point of reasonable returns.
 ![views](https://komarev.com/ghpvc/?username=aramz33&color=5eead4&label=profile+views)
 
 *yes, that's a view counter. i like numbers.*
+
+*and if the number is low: bite my shiny metal ass.*
