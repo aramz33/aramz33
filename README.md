@@ -13,7 +13,7 @@ wired into one ecosystem optimized for mid level hardware (mac M3, 16GB of RAM).
 I push a setup until it breaks, figure out why, rebuild it better. i learn more from the plumbing than from the prompts.
 
 <!-- LATEST:START -->
-latest brick: [aramz33/agentbase](https://github.com/aramz33/agentbase) — "Merge pull request #4 from aramz33/feat/removal-tombstones" (today)
+latest brick: [aramz33/agentbase](https://github.com/aramz33/agentbase) — "test(prune): the skip set had one state tested out of four" (today)
 <!-- LATEST:END -->
 
 ## What i build
