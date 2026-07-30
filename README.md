@@ -18,7 +18,7 @@ I push a setup until it breaks, figure out why, rebuild it better. i learn more 
 when a run OOMs at 3am on 16GB: we're boned. then i fix it.
 
 <!-- LATEST:START -->
-latest brick: [aramz33/agentbase](https://github.com/aramz33/agentbase) — "test(prune): the skip set had one state tested out of four" (today)
+latest brick: [aramz33/llmfit](https://github.com/aramz33/llmfit) — "fix(tui): mark every selected publisher in the detail pane" (today)
 <!-- LATEST:END -->
 
 ## What i build
@@ -37,6 +37,7 @@ i'm 40% python, 40% yaml, and 20% regret.
 I started contributing this year. List is growing. i'm going to build my own ecosystem, with blackjack. in fact, forget the ecosystem:
 
 <!-- OSS:START -->
+- [AlexsJones/llmfit#814](https://github.com/AlexsJones/llmfit/pull/814) — open · feat(tui): mark list rows matched through a GGUF source
 - [AlexsJones/llmfit#761](https://github.com/AlexsJones/llmfit/pull/761) — merged · feat(api): unify fit envelope serializers, exposing parity fields on REST/MCP
 - [AlexsJones/llmfit#758](https://github.com/AlexsJones/llmfit/pull/758) — merged · feat(api): expose usable_context and effective_context_length in the models envelope
 - [AlexsJones/llmfit#754](https://github.com/AlexsJones/llmfit/pull/754) — merged · feat(core): report macOS GPU-available unified memory
