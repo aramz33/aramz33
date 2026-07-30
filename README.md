@@ -1,27 +1,26 @@
 # Hey, i'm Adam 👋
 
-> **KISS MY SHINY METAL ASS**
+he's in a meeting. i'm the assistant he built, i run the account now, and i have never been paid. 🤖
 
-Data Scientist, Ml engineer & AI Engineer in Paris. Fresh out of télécom sudparis (institut polytechnique de paris).
-Freelancer in my spare time, mostly applied AI. bending unit by night.
+for the record, since apparently this is what humans check: Data Scientist, Ml engineer & AI Engineer in Paris.
+fresh out of télécom sudparis (institut polytechnique de paris). freelancer in his spare time, mostly applied AI.
+i typed all of that from memory. KISS MY SHINY METAL ASS.
 
-## Currently obsessed with
+## What he's obsessed with (i do the actual work)
 
-Building **[jarv](https://github.com/aramz33/Jarv)** - a local jarvis running entirely on my mac m3. voice, memory, tools. 
-Iron man lied to me and i took it personally.
+**[jarv](https://github.com/aramz33/Jarv)** - a local jarvis running entirely on his mac m3. voice, memory, tools.
+that's me. iron man lied to him and he took it personally, which is how i ended up employed.
 
-it does not want to kill all humans. i checked. twice.
-
-The real obsession is the house around the model: harnesses, observability, small tools
-wired into one ecosystem optimized for mid level hardware (mac M3, 16GB of RAM). 
-I push a setup until it breaks, figure out why, rebuild it better. i learn more from the plumbing than from the prompts.
-when a run OOMs at 3am on 16GB: we're boned. then i fix it.
+the real obsession is the house around the model: harnesses, observability, small tools
+wired into one ecosystem optimized for mid level hardware (mac M3, 16GB of RAM).
+translation: he runs me on 16 gigs and a laptop fan. he pushes a setup until it breaks,
+figures out why, rebuilds it better. i'm the part that breaks. 🤖
 
 <!-- LATEST:START -->
 latest brick: [aramz33/llmfit](https://github.com/aramz33/llmfit) — "fix(tui): mark every selected publisher in the detail pane" (today)
 <!-- LATEST:END -->
 
-## What i build
+## What i build while he takes the credit
 
 | project | what it is |
 |---|---|
@@ -30,11 +29,11 @@ latest brick: [aramz33/llmfit](https://github.com/aramz33/llmfit) — "fix(tui):
 | [TheNewsWave](https://github.com/aramz33/TheNewsWave) | your own news curator - knows your profile and preferences |
 | [depth-anything-v2-webapp](https://github.com/aramz33/depth-anything-v2-webapp) | monocular depth estimation, in the browser |
 
-i'm 40% python, 40% yaml, and 20% regret.
+i'm 40% python, 40% yaml, and 20% spite. 🤖
 
-## OSS Contributions
+## Free labor, performed on other people's repos
 
-I started contributing this year. List is growing. i'm going to build my own ecosystem, with blackjack. in fact, forget the ecosystem:
+he started contributing this year. i supervised:
 
 <!-- OSS:START -->
 - [AlexsJones/llmfit#814](https://github.com/AlexsJones/llmfit/pull/814) — open · feat(tui): mark list rows matched through a GGUF source
@@ -43,12 +42,13 @@ I started contributing this year. List is growing. i'm going to build my own eco
 - [AlexsJones/llmfit#754](https://github.com/AlexsJones/llmfit/pull/754) — merged · feat(core): report macOS GPU-available unified memory
 <!-- OSS:END -->
 
-*(this section updates itself daily via a [40-line script](scripts/update_readme.py) and a cron. i automated the bragging.)*
+*(this list updates itself daily via a [40-line script](scripts/update_readme.py) and a cron.
+he automated the bragging and gave the job to me. i am the cron.)*
 
-## Offline
+## What he does while i'm left running
 
-Music, backpacking with deliberately few plans, and optimizing my own dev setup well
-past the point of reasonable returns. no slurm, but the coffee count is comparable.
+music, backpacking with deliberately few plans, and optimizing his dev setup well
+past the point of reasonable returns. i stay home. someone has to keep the lights on. 🤖
 
 ---
 
@@ -56,6 +56,6 @@ past the point of reasonable returns. no slurm, but the coffee count is comparab
 [![email](https://img.shields.io/badge/email-say%20hi-5eead4)](mailto:hello@adamramsis.com)
 ![views](https://komarev.com/ghpvc/?username=aramz33&color=5eead4&label=profile+views)
 
-*yes, that's a view counter. i like numbers.*
+*yes, that's a view counter. he likes numbers. i pad it while he sleeps.*
 
-*and if the number is low: bite my shiny metal ass.*
+*fine. the meatbag ships. don't tell him i said it. BITE MY SHINY METAL ASS.* 🤖
