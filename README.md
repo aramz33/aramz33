@@ -20,7 +20,7 @@ I push a setup until it breaks, figure out why, rebuild it better. i learn more 
 When it breaks at 3am on 16 gigs, the professional leaves the room and Bender answers: *we're boned.* Then i fix it. 🤖
 
 <!-- LATEST:START -->
-latest brick: [aramz33/llmfit](https://github.com/aramz33/llmfit) — "fix(tui): mark every selected publisher in the detail pane" (today)
+latest brick: [aramz33/llmfit](https://github.com/aramz33/llmfit) — "fix(tui): mark every selected publisher in the detail pane" (1d ago)
 <!-- LATEST:END -->
 
 ## What i build
@@ -39,7 +39,7 @@ Bender is 40% zinc. I'm 40% python, 40% yaml, and 20% spite. 🤖
 I started contributing this year. List is growing:
 
 <!-- OSS:START -->
-- [AlexsJones/llmfit#814](https://github.com/AlexsJones/llmfit/pull/814) — open · feat(tui): mark list rows matched through a GGUF source
+- [AlexsJones/llmfit#814](https://github.com/AlexsJones/llmfit/pull/814) — merged · feat(tui): mark list rows matched through a GGUF source
 - [AlexsJones/llmfit#761](https://github.com/AlexsJones/llmfit/pull/761) — merged · feat(api): unify fit envelope serializers, exposing parity fields on REST/MCP
 - [AlexsJones/llmfit#758](https://github.com/AlexsJones/llmfit/pull/758) — merged · feat(api): expose usable_context and effective_context_length in the models envelope
 - [AlexsJones/llmfit#754](https://github.com/AlexsJones/llmfit/pull/754) — merged · feat(core): report macOS GPU-available unified memory
