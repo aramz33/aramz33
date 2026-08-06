@@ -20,7 +20,7 @@ I push a setup until it breaks, figure out why, rebuild it better. i learn more 
 When it breaks at 3am on 16 gigs, the professional leaves the room and Bender answers: *we're boned.* Then i fix it. 🤖
 
 <!-- LATEST:START -->
-latest brick: [aramz33/llmfit](https://github.com/aramz33/llmfit) — "fix(tui): mark every selected publisher in the detail pane" (5d ago)
+latest brick: [aramz33/llmfit](https://github.com/aramz33/llmfit) — "fix(tui): mark every selected publisher in the detail pane" (6d ago)
 <!-- LATEST:END -->
 
 ## What i build
