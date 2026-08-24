@@ -5,13 +5,12 @@ Data Scientist and ML / AI Engineer based in Paris, fresh out of Télécom SudPa
 around it, and the plumbing that keeps it running on hardware people actually own.
 Freelance in my spare time.
 
-I am a calm and measured professional roughly 90% of the time. The other 10% I am Bender,
-and the deploy hears about it: **KISS MY SHINY METAL ASS** 🤖
+I am a calm and measured professional roughly 90% of the time. The other 10% I am Bender: **KISS MY SHINY METAL ASS** 🤖
 
 ## Currently obsessed with
 
 Building **[jarv](https://github.com/aramz33/Jarv)** - a local jarvis running entirely on my mac m3. voice, memory, tools.
-Iron man lied to me and i took it personally. *(it does not want to kill all humans. i checked. twice.* 🤖*)*
+Iron man lied to me and i took it personally.
 
 The real obsession is the house around the model: harnesses, observability, small tools
 wired into one ecosystem optimized for mid level hardware (mac M3, 16GB of RAM).
