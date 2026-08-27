@@ -21,7 +21,7 @@ I push a setup until it breaks, figure out why, rebuild it better. I learn more 
 When it breaks at 3am on 16 gigs, the professional leaves the room and Bender answers: *we're boned.* Then i fix it. 🤖
 
 <!-- LATEST:START -->
-latest brick: [aramz33/llmfit](https://github.com/aramz33/llmfit) — "fix(tui): mark every selected publisher in the detail pane" (26d ago)
+latest brick: [aramz33/pi-prometheus](https://github.com/aramz33/pi-prometheus) — "fix(attribution): a skill read was never attributed on Windows" (today)
 <!-- LATEST:END -->
 
 ## What i build
