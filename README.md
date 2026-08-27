@@ -7,7 +7,7 @@ I build applied AI & ML pipelines end to end: the model, the toolingaround it, a
 
 Freelance in my spare time.
 
-I am a calm and measured professional roughly 90% of the time. The other 10% I am Bender 🤖
+I am a calm and measured professional roughly 90% of the time. The other 10% I am Bender 🤖 (real ones shall get it)
 
 ## Currently obsessed with
 
