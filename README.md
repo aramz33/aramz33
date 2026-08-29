@@ -21,7 +21,7 @@ I push a setup until it breaks, figure out why, rebuild it better. I learn more 
 When it breaks at 3am on 16 gigs, the professional leaves the room and Bender answers: *we're boned.* Then i fix it. 🤖
 
 <!-- LATEST:START -->
-latest brick: [aramz33/pi-prometheus](https://github.com/aramz33/pi-prometheus) — "docs: the poster named a real package as the culprit on invented numbers" (2d ago)
+latest brick: [aramz33/pi-prometheus](https://github.com/aramz33/pi-prometheus) — "docs: the poster named a real package as the culprit on invented numbers" (3d ago)
 <!-- LATEST:END -->
 
 ## What i build
